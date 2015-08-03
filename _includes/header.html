@@ -5,26 +5,26 @@
 			{% if page.path == "index.html" %}
 			<span class="title">
 				<li>
-					<a href="/index.html">home</a>
+                                <a href="{{ site.baseurl }}/index.html">home</a>
 				</li>
 			</span>
 			{% else %}
 				<li>
-					<a href="/index.html">home</a>
+					<a href="{{ site.baseurl }}/index.html">home</a>
 				</li>
 			{% endif %}
 				<li>
-					<a href="/Ethan_J_Jackson_CV.pdf">CV</a>
+					<a href="{{ site.baseurl }}/Ethan_J_Jackson_CV.pdf">CV</a>
 				</li>
 			{% if page.path == "contact.html" %}
 			<span class="title">
 				<li>
-					<a href="/contact.html">contact</a>
+					<a href="{{ site.baseurl }}/contact.html">contact</a>
 				</li>
 			</span>
 			{% else %}
 				<li>
-					<a href="/contact.html">contact</a>
+					<a href="{{ site.baseurl }}/contact.html">contact</a>
 				</li>
 			{% endif %}
 		</div>
