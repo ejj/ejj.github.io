@@ -23,7 +23,7 @@ Amar Padmanabhan, Justin Pettit, Ben Pfaff, Rajiv Ramanathan, Scott Shenker,
 Alan Shieh, Jeremy Stribling, Pankaj Thakkar, Dan Wendlandt, Alexander Yip,
 Ronghua Zhang.
 
-[**Flow Caching for High Entropy Packet Fields.**](/publications/caching.pdf)\\
+[**Flow Caching for High Entropy Packet Fields.**]({{ site.baseurl }}/publications/caching.pdf)\\
 Nick Shelly, **Ethan J. Jackson**, Teemu Koponen, Nick McKeown,
 Jarno Rajahalme.\\
 ***Best Paper Runner-up***
