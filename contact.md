@@ -12,5 +12,6 @@ Contact Information
 |||||
 | **Social Media** ||| [Twiiter](https://twitter.com/etha92000) |
 |                  ||| [Linkedin](https://www.linkedin.com/pub/ethan-jackson/b/780/344) |
+|                  ||| [Keybase](https://keybase.io/ejj) |
 |||||
-| **BTC**        ||| 3EuVxQv66GCVSxHxU9e9GmT1wGaW1vMTjD |
+| **BTC**          ||| 39ejSrK1jEp3ZQaMaTHe93ANJimtEexFf6 |
