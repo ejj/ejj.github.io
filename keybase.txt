@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/ejj
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ejj.github.io
+  * I am ejj (https://keybase.io/ejj) on keybase.
+  * I have a public key with fingerprint EA91 1363 758C 669F EEBA  AA1E F19F BBDA B44A 2DEB
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "ea911363758c669feebaaa1ef19fbbdab44a2deb",
+            "host": "keybase.io",
+            "key_id": "f19fbbdab44a2deb",
+            "kid": "0101ceae818932e741678b931f886ef92658040d504f2d06d2a23a044cf0eca339e00a",
+            "uid": "4649640bc3981d08f5d83a025a8ee319",
+            "username": "ejj"
+        },
+        "service": {
+            "hostname": "ejj.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1438657203,
+    "expire_in": 157680000,
+    "prev": "2f7eaa2bab4ae6fb08a9c0410e4a97c38783ea084dfaded8d2ca159b08ce59ed",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.34
+Comment: https://keybase.io/crypto
+
+yMIcAnicbZJdSBRRFMdnU0M3U7F6MJNisujD9M73HUkfwoJCDJOMIFnvzNxZR3N2
+2y81MQvKQmvLhww0TPuACBJqccUiMDEiBEkLKcN6KMNq0ehB8wu6Y0Uv3ZfLPed/
+fuf+D2dgdRRlt2Ultvu/NTTdtg0+zfVTh/t2hGppxaXV0Nm1dAVevnTDdGKP22OY
+PjqbxkhmGE7kJAGqoijrGCsIIQbrjKwrioYUnkeshhU6gy5zea0KglGQF2caLhIj
+D4ehkeh/9BXLCcAARsUIQwbKHIslnhElqMgco0MoYl1mRQECHmgC4HVWA6LGIpZD
+gOdVHWAVcZyMAUAE51/G8SIvizxQVE6GjAagLmiQyFkBQYw5RraEXuwxUSW23JWX
+03UZNAkEDBVb7i0T/5KZTsNX5ld+e3F7XD6X6jpOUmU+n9ubbZX6atyWtgorjj8U
+h2KYGpkhqQhgj9dwmXQ2Q5Sqz7CwDM9BUZBYwGXQuNpteLDDsBSCJEJAjtUHBwiS
+1SWMEKuQkSEs6gqASFYBzwDMI1lSOShBDiMAeU1HGtagxqqIEWSiU7EgY422fJ0w
+XYTNkH8iJ2F6DaeJfH4Ppuv6+45FUzY7tTJmhbUGlD0u6e9ytFyIpa7FH0yD9Y4N
+n94XhObra4Lb83Knqte/STgQedx2917JpY1DMQ2POmZKvrS0pYe6Fz35jrEbQ3ro
+Vc++qa6+2khn3Mn80Iit+/Xk27n00omjs/Io3Vh5K3Xr3OaGmfbWitiknrrv0ynD
+C2cW759u6Xqw4PgRap5NnnBGj2tZq3rX7CwKdtiPvLzTrgfnzg3w765XdEamrg4d
+OhsIyo3rIksPY7/+mFzqyghd3FMU3zyY8yLYkPyESvxZ35+zJfxs+opp3x0ZeV48
+tynqY8Hw2vnM8Q/UwGgoYTZlopQyFwrDxWq4Jm/v/shCr3KqKvfm7K7zTZ8LtzWn
+dutpl1uHi8JjvwD3lTTs
+=NhMq
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ejj
+
+==================================================================
