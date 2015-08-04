@@ -14,4 +14,4 @@ Contact Information
 |                  ||| [Linkedin](https://www.linkedin.com/pub/ethan-jackson/b/780/344) |
 |                  ||| [Keybase](https://keybase.io/ejj) |
 |||||
-| **BTC**          ||| 39ejSrK1jEp3ZQaMaTHe93ANJimtEexFf6 |
+| **BTC**          ||| 3Bwzk5WAFNkVTaejH8X1JmNRgvgj17k12K |
