@@ -30,11 +30,11 @@ Nick Shelly, **Ethan J. Jackson**, Teemu Koponen, Nick McKeown, Jarno Rajahalme.
 Patents
 -------
 
-#### **Granted** ####
+### **Granted** ###
 [**Fault Tolerant Managed Switching Element Architecture.**](http://www.uspto.gov/web/patents/patog/week50/OG/html/1409-3/US08913483-20141216.html)\\
 Benjamin L. Pfaff, **Ethan J. Jackson**, Teemu Koponen, Pankaj Thakkar.
 
-#### **Pending** ####
+### **Pending** ###
 [**Tracking Prefixes of Values Associated with Different Rules to Generate Flows.**](http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PG01&s1=20150092778&OS=20150092778&RS=20150092778)\\
 **Ethan J. Jackson**, Jarno Rajahalme, Nicholas Shelly, Teemu Koponen.
 
