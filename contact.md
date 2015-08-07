@@ -10,7 +10,7 @@ Contact Information
 | **Address**      ||| 417 Soda Hall           |
 |                  ||| Berkeley, CA 94720      |
 |||||
-| **Social Media** ||| [Twitter](https://twitter.com/etha92000) |
+| **Social Media** ||| [Twitter](https://twitter.com/EthanJJackson) |
 |                  ||| [Linkedin](https://www.linkedin.com/pub/ethan-jackson/b/780/344) |
 |                  ||| [Keybase](https://keybase.io/ejj) |
 |||||
