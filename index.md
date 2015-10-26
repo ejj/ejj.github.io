@@ -2,10 +2,12 @@
 layout: default
 ---
 
-I am a (soon to be) PhD student at UC Berkeley, focusing on Computer Networks
-and Distributed Systems.   Previously, I was a major contributer to Open
-vSwitch focusing on SDN, Network Virtualization, and high performance software
-switching.
+I am a Computer Science PhD student at UC Berkeley advised by [Scott
+Shenker](https://www.eecs.berkeley.edu/Faculty/Homepages/shenker.html).  My
+primary focus is on Distributed Systems and, to a lesser degree, Computer
+Networks.  Previously, I was a major contributer to the Open vSwitch project,
+focusing on Software-Defined Networking, Network Virtualization, and high
+performance software switching.
 
 Publications
 ------------
