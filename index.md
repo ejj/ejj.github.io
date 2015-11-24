@@ -4,13 +4,17 @@ layout: default
 
 I am a Computer Science PhD student at UC Berkeley advised by [Scott
 Shenker](https://www.eecs.berkeley.edu/Faculty/Homepages/shenker.html).  My
-primary focus is on Distributed Systems and, to a lesser degree, Computer
-Networks.  Previously, I was a major contributer to the Open vSwitch project,
-focusing on Software-Defined Networking, Network Virtualization, and high
-performance software switching.
+primary focus is on Distributed Systems and Computer Networks.  Previously, I
+was a major contributor to the Open vSwitch project, focusing on
+Software-Defined Networking, Network Virtualization, and high performance
+software switching.
 
 Publications
-------------
+-------------
+[**Taking an AXE to L2 Spanning Trees**](http://conferences.sigcomm.org/hotnets/2015/papers/mccauley.pdf)\\
+James McCauley, Alice Sheng, **Ethan J. Jackson**, Barath Raghavan, Sylvia
+Ratnasamy, Scott Shenker.
+
 [**The Design and Implementation of Open vSwitch.**](https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-pfaff.pdf)\\
 Ben Pfaff, Justin Pettit, Teemu Koponen, **Ethan J. Jackson**, Andy Zhou, Jarno
 Rajahalme, Jesse Gross, Alex Wang, Joe Stringer, Pravin Shelar, Keith Amidon,
