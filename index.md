@@ -44,8 +44,7 @@ NSDI 2014
 
 [**Flow Caching for High Entropy Packet Fields.**]({{ site.baseurl }}/publications/caching.pdf)\\
 Nick Shelly, **Ethan J. Jackson**, Teemu Koponen, Nick McKeown, Jarno Rajahalme.\\
-***Best Paper Runner-up***\\
-HotSDN
+HotSDN, ***Best Paper Runner-up***\\
 
 Patents
 -------
