@@ -2,24 +2,36 @@
 layout: default
 ---
 
-I am a Computer Science PhD student at UC Berkeley advised by [Scott
-Shenker](https://www.eecs.berkeley.edu/Faculty/Homepages/shenker.html).  My
-primary focus is on Distributed Systems and Computer Networks.  Previously, I
-was a major contributor to the Open vSwitch project, focusing on
+I am a PhD student at UC Berkeley studying Computer Science.  I am advised by
+[Scott Shenker](https://www.eecs.berkeley.edu/Faculty/Homepages/shenker.html)
+and supported by a National Science Foundation Graduate Research Fellowship.
+My primary focuses are Distributed Systems and Computer Networks.  Previously,
+I was a major contributor to the Open vSwitch project, focusing on
 Software-Defined Networking, Network Virtualization, and high performance
 software switching.
 
 Publications
 -------------
+**Taking an AXE to L2 Spanning Trees**\\
+James McCauley, Mingjie Zhao, **Ethan J. Jackson**, Barath Raghavan, Sylvia
+Ratnasamy, Scott Shenker.\\
+Sigcomm 2016
+
+**SoftFlow: A Middlebox Architecture for Open vSwitch**\\
+**Ethan J. Jackson**, Melvin Walls, Aurojit Panda, Justin Pettit, Ben Pfaff,
+Jarno Rajahalme, Teemu Koponen, Scott Shenker.\\
+USENIX ATC 2016
+
 [**Taking an AXE to L2 Spanning Trees**](http://conferences.sigcomm.org/hotnets/2015/papers/mccauley.pdf)\\
 James McCauley, Alice Sheng, **Ethan J. Jackson**, Barath Raghavan, Sylvia
-Ratnasamy, Scott Shenker.
+Ratnasamy, Scott Shenker.\\
+HotNets 2015
 
 [**The Design and Implementation of Open vSwitch.**](https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-pfaff.pdf)\\
 Ben Pfaff, Justin Pettit, Teemu Koponen, **Ethan J. Jackson**, Andy Zhou, Jarno
 Rajahalme, Jesse Gross, Alex Wang, Joe Stringer, Pravin Shelar, Keith Amidon,
 Martin Casado.\\
-***Best Paper***
+NSDI 2015, ***Best Paper***
 
 [**Network Virtualization in Multi-tenant Datacenters.**](https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-koponen.pdf)\\
 Teemu Koponen, Keith Amidon, Peter Balland, Martin Casado, Anupam Chanda,
@@ -27,11 +39,13 @@ Bryan Fulton, Igor Ganichev, Jesse Gross, Natasha Gude, Paul Ingram,
 **Ethan J. Jackson**, Andrew Lambeth, Romain Lenglet, Shih-Hao Li,
 Amar Padmanabhan, Justin Pettit, Ben Pfaff, Rajiv Ramanathan, Scott Shenker,
 Alan Shieh, Jeremy Stribling, Pankaj Thakkar, Dan Wendlandt, Alexander Yip,
-Ronghua Zhang.
+Ronghua Zhang.\\
+NSDI 2014
 
 [**Flow Caching for High Entropy Packet Fields.**]({{ site.baseurl }}/publications/caching.pdf)\\
 Nick Shelly, **Ethan J. Jackson**, Teemu Koponen, Nick McKeown, Jarno Rajahalme.\\
-***Best Paper Runner-up***
+***Best Paper Runner-up***\\
+HotSDN
 
 Patents
 -------
