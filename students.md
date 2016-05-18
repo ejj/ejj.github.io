@@ -13,7 +13,7 @@ or Distributed Systems, send me an email!
 | Kevin Lin ||| EECS 2017 |
 | [Luise Valentin](https://www.linkedin.com/in/luisevalentinrygaard) ||| L&S CS 2017 |
 | Matthew Mussomele ||| EECS 2018 |
-| Steven Wang ||| EECS 2018 |
+| Steven H. Wang ||| EECS 2018 |
 | Vivian Fang ||| EECS 2019 |
 |||||
 |**Former Students**||||
