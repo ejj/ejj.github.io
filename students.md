@@ -2,11 +2,11 @@
 layout: default
 ---
 
-I've been fortunate to work with some talented undergraduates here
-at UC Berkeley.  We've got a strong, highly collaborative group, focused
-on developing high quality software with a solid research foundation.  If
-you are an undergraduate at Berkeley, interested in Computer Networks
-or Distributed Systems, send me an email!
+I've been fortunate to work with some talented undergraduates here at UC
+Berkeley.  We've got a strong, collaborative group, focused on developing high
+quality software with a solid research foundation.  If you are an undergraduate
+at Berkeley, interested in Computer Networks or Distributed Systems, send me an
+email!
 
 |**Current Students**||||
 | Zhongtian Wang |||  Staff Researcher |
