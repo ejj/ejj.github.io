@@ -2,12 +2,12 @@
 layout: default
 ---
 
-I am a PhD student at UC Berkeley studying Computer Science.  I am advised by
-[Scott Shenker](https://www.eecs.berkeley.edu/Faculty/Homepages/shenker.html)
-and supported by a National Science Foundation Graduate Research Fellowship.
-My primary focuses are Distributed Systems and Computer Networks.  Previously,
-I was a major contributor to the Open vSwitch project, focusing on
-Software-Defined Networking, Network Virtualization, and high performance
+I am a PhD student at UC Berkeley studying Computer Science, advised by [Scott
+Shenker](https://www.eecs.berkeley.edu/Faculty/Homepages/shenker.html), and
+supported by an NSF Fellowship.  I lead both development and research on
+[Quilt](http://quilt.io), an automated deployment system for distributed
+applications.  Previously, I was a major contributor to Open vSwitch, focusing
+on Software-Defined Networking, Network Virtualization, and high performance
 software switching.
 
 Publications
