@@ -18,7 +18,7 @@ email!
 |||||
 |**Former Students**||||
 | Melvin Walls |||  Staff Researcher |
-| [Yuen Mei Wan](https://github.com/yuenmeiwan) ||| Uber |
+| [Yuen Mei Wan](https://www.linkedin.com/in/wanyuenmei) ||| Uber |
 | [Nicholas Sun](http://www.nlsun.com) ||| Mesosphere |
 
 
