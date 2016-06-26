@@ -17,7 +17,7 @@ James McCauley, Mingjie Zhao, **Ethan J. Jackson**, Barath Raghavan, Sylvia
 Ratnasamy, Scott Shenker.\\
 Sigcomm 2016
 
-**SoftFlow: A Middlebox Architecture for Open vSwitch**\\
+[**SoftFlow: A Middlebox Architecture for Open vSwitch**]({{ site.baseurl }}/publications/softflow.pdf)\\
 **Ethan J. Jackson**, Melvin Walls, Aurojit Panda, Justin Pettit, Ben Pfaff,
 Jarno Rajahalme, Teemu Koponen, Scott Shenker.\\
 USENIX ATC 2016
@@ -84,3 +84,8 @@ Justin Pettit, **Ethan J. Jackson**, Jesse Gross, Andy Zhou.
 [**Adjusting Connection Validating Control Signals in Response to Changes in Network Traffic. (1)**](http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=1&f=G&l=50&d=PG01&p=1&S1=20150089048&OS=20150089048&RS=20150089048)
 [**Adjusting Connection Validating Control Signals in Response to Changes in Network Traffic. (2)**](http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=1&f=G&l=50&d=PG01&p=1&S1=20150085655&OS=20150085655&RS=20150085655)\\
 **Ethan J. Jackson**, Keith Amidon, Andy Zhou.
+
+Recorded Talks
+--------------
+
+[**Quilt** -- Spark Summit 2016](https://www.youtube.com/watch?v=r0l9VxzUHmg)
