@@ -14,7 +14,7 @@ email!
 | [Matthew Mussomele](https://mmussomele.github.io/) ||| EECS 2018 |
 | Steven H. Wang ||| EECS 2018 |
 | [Vivian Fang](http://www.vivian.tk) ||| EECS 2019 |
-| [Tejas Manohar](tejas.io) ||| Industrial Collaborator |
+| [Tejas Manohar](http://tejas.io) ||| Industrial Collaborator |
 |||||
 |**Former Students**||||
 | Melvin Walls |||  Nefeli Networks |
