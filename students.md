@@ -9,16 +9,17 @@ at Berkeley, interested in Computer Networks or Distributed Systems, send me an
 email!
 
 |**Current Students**||||
-| Zhongtian Wang |||  Staff Researcher |
 | Kevin Lin ||| EECS 2017 |
 | [Luise Valentin](https://www.linkedin.com/in/luisevalentinrygaard) ||| L&S CS 2017 |
 | [Matthew Mussomele](https://mmussomele.github.io/) ||| EECS 2018 |
 | Steven H. Wang ||| EECS 2018 |
 | [Vivian Fang](http://www.vivian.tk) ||| EECS 2019 |
+| [Tejas Manohar](tejas.io) ||| Industrial Collaborator |
 |||||
 |**Former Students**||||
-| Melvin Walls |||  Staff Researcher |
+| Melvin Walls |||  Nefeli Networks |
 | [Yuen Mei Wan](https://www.linkedin.com/in/wanyuenmei) ||| Uber |
+| Zhongtian Wang ||| Amazon |
 | [Nicholas Sun](http://www.nlsun.com) ||| Mesosphere |
 
 
