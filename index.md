@@ -12,7 +12,7 @@ software switching.
 
 Publications
 -------------
-**Taking an AXE to L2 Spanning Trees**\\
+[**The Deforestation of L2**]({{ site.baseurl }}/publications/axe-sigcomm16.pdf)\\
 James McCauley, Mingjie Zhao, **Ethan J. Jackson**, Barath Raghavan, Sylvia
 Ratnasamy, Scott Shenker.\\
 Sigcomm 2016
